@@ -190,9 +190,9 @@ graph TB
 
 <div align="center">
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SCSHIRKER/cftgsx)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Syunraii/cftgsx)
 
-**[点击上方按钮一键部署到Cloudflare Workers](https://deploy.workers.cloudflare.com/?url=https://github.com/SCSHIRKER/cftgsx)**
+**[点击上方按钮一键部署到Cloudflare Workers](https://deploy.workers.cloudflare.com/?url=https://github.com/Syunraii/cftgsx)**
 
 </div>
 
